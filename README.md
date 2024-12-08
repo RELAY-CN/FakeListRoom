@@ -1,14 +1,23 @@
 ## FakeListRoom
 用于在 Rusted Warfare 的列表上通过 端口代理 等多种方式实现虚假的房间
 
-提供两种方案
-> 刷房间数 (保活)  
+默认方案
 > 创建一直在的房间 (保活)  
 
 我们致力于让游戏环境变得更好, 即使是被动行为.   
+**不为此负责**  
 
 ## Tags
 `红队` `攻击性`   
+
+## 使用
+```text
+bash fake.sh add ip:port@type
+```
+例子
+```text
+bash fake.sh add 1.1.1.1:1111@socks5
+```
 
 ### Licenses  
 The Unlicense  
