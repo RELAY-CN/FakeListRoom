@@ -19,6 +19,10 @@ bash fake.sh add ip:port@type
 bash fake.sh add 1.1.1.1:1111@socks5
 ```
 
+## 其他
+我们**不认为**长期置顶列表是**好事**, 我们应该释放出来给更有需要的  
+建议遵循自带逻辑, 24*7 服务器不应该, 也不应当长期置顶恶心正常玩家  
+
 ### Licenses  
 The Unlicense  
 
