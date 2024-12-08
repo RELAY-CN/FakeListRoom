@@ -11,6 +11,7 @@
 `红队` `攻击性`   
 
 ## 使用
+### 单个房间
 ```text
 bash fake.sh add ip:port@type
 ```
@@ -18,6 +19,11 @@ bash fake.sh add ip:port@type
 ```text
 bash fake.sh add 1.1.1.1:1111@socks5
 ```
+### 多个房间
+```text
+bash fakes.sh
+```
+> 需要提前准备端口代理 proxy.txt
 
 ## 其他
 我们**不认为**长期置顶列表是**好事**, 我们应该释放出来给更有需要的  
