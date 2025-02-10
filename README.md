@@ -1,5 +1,6 @@
-## FakeListRoom Poc/Exp
-用于在 Rusted Warfare 的列表上通过 端口代理 等多种方式实现虚假的房间
+## FakeListRoom PoC/Exp
+用于在 Rusted Warfare 的列表上通过 端口代理 等多种方式实现虚假的房间  
+游戏版本: 1.15 (176)  
 
 默认方案
 > 创建一直在的房间 (保活)  
